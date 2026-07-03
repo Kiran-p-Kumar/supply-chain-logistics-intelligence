@@ -1,6 +1,8 @@
 **Supply Chain Analytics Dashboard
 **
+
 Built a business-focused Supply Chain Analytics solution using Python, SQL, and Power BI to analyze supplier performance, inventory utilization, freight cost, shipment operations, and delivery lead times from global logistics data.
+
 
 **Business Problem**
 
