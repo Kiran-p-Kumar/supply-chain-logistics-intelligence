@@ -9,6 +9,7 @@ Built a business-focused Supply Chain Analytics solution using Python, SQL, and 
 Manual analysis of logistics and shipment data made it difficult to track delivery delays, freight expenses, inventory distribution, and supplier efficiency.
 
 **Solution**
+
 1.Cleaned and transformed raw SCMS logistics data using Python & Pandas
 
 2.Built supplier and inventory master tables
