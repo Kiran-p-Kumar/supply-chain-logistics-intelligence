@@ -1,0 +1,15 @@
+shipment_mode,freight_status,total_shipments,total_freight_cost,avg_freight_cost
+Air,"Actual Cost",5589,43038623.47,7700.59
+Truck,"Actual Cost",1840,11865688.22,6448.74
+"Air Charter","Actual Cost",577,8926108.49,15469.86
+Ocean,"Actual Cost",326,3590728.8,11014.51
+,"Actual Cost",311,1396700.41,4491
+Air,Included,334,0,0
+Air,"Separate Invoice",190,0,0
+,Included,49,0,0
+Truck,Included,958,0,0
+Truck,"Separate Invoice",32,0,0
+"Air Charter",Included,71,0,0
+Ocean,Included,30,0,0
+Ocean,"Separate Invoice",15,0,0
+"Air Charter","Separate Invoice",2,0,0
